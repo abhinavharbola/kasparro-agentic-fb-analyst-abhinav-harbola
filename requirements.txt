@@ -1,0 +1,6 @@
+pandas
+pyyaml
+python-dotenv
+google-generativeai
+pytest
+python-dotenv

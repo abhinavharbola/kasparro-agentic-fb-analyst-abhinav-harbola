@@ -1,0 +1,13 @@
+system:
+  model: "gemini-1.5-flash"
+  temperature: 0.2
+
+paths:
+  data: "data/synthetic_fb_ads_undergarments.csv"
+  reports: "reports/"
+  prompts: "prompts/"
+  logs: "logs/agent_system.log"
+
+thresholds:
+  low_ctr: 0.015
+  roas_concern: 2.0
