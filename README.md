@@ -1,4 +1,4 @@
-# Kasparro Agentic FB Analyst - [Teacher Reference]
+# Kasparro Agentic FB Analyst
 
 ## Overview
 An autonomous multi-agent system that diagnoses Facebook Ads performance.
